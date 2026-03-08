@@ -1,0 +1,7 @@
+{
+  "name": "A aventura da leitura e escrita da Helga",
+  "description": "Uma plataforma de jogos educativos de leitura e escrita com a Helga. Paga 3€ via MB WAY para desbloquear o acesso total!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
